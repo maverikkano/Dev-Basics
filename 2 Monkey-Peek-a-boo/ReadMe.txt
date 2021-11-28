@@ -35,3 +35,7 @@ display : {block | inline | none}
 display : flex
 Positioning elements with flexibility
 - Parent element need to be flex
+
+------------------------------------------------------
+
+Credits for Idea: https://www.youtube.com/watch?v=mCQ1-iDSnto

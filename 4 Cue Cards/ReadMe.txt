@@ -14,3 +14,7 @@ JavaScript
 	. . .
    }
 2.info.innerHTML = details.join('\n');
+
+------------------------------------------------------
+
+Credits for Idea: https://www.youtube.com/watch?v=mCQ1-iDSnto

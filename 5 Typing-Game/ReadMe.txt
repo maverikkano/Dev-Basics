@@ -23,3 +23,7 @@ JaveScript
 --> Returns array as string with the given seperator
 
 4. <element_object>.focus()
+
+------------------------------------------------------
+
+Credits for Idea: https://github.com/microsoft/Web-Dev-For-Beginners

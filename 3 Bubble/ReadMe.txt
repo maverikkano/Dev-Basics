@@ -17,3 +17,7 @@ JavaScript
 ==========
 1. Events in EventListner
 https://www.w3schools.com/jsref/dom_obj_event.asp
+
+------------------------------------------------------
+
+Credits for Idea: https://www.youtube.com/watch?v=mCQ1-iDSnto
