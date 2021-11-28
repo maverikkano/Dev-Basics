@@ -1,2 +1,2 @@
-# Web-Development-Basics
+# Dev-Basics
 HTML, CSS, JavaScript practice projects
