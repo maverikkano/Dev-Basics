@@ -1,0 +1,55 @@
+Creating an Extension:
+=====================
+1. Create Plain HTML UI
+2. npm install- install all packages mentioned in package.json
+	
+	// Creating index.js
+3. Set up elements from HTML
+4. Add listeners
+5. Handle submit & clear button
+5. Create init method
+-- check values from **localStorage**: browser storage
+6. Call API
+-- Called using **axios** (read Docs)
+-- API specific data transfer
+-- Catch errors
+
+
+	// Performance
+7. Clear Cache -> DevTools -> Performance -> Generate Report
+-- Event Log: check if > 15ms
+-- Watch the slowest-loading asset
+
+8. Deliver right size and resolution images
+
+9. *Use minimal tags & styles*. Add less used styles in-page/in-line
+
+Research topics
+===============
+- LocalStorage
+
+- String stored as Key-Value pair in browser
+
+- Type of APIs
+-- REST
+-- ___
+
+- Webpack
+
+- Axios documentation
+
+Notes:
+=====
+- Cache: Saved content (external- data)
+- Cookies: Saved content (internal- user actions)
+- Package.json: Equivalent to POM.xml/requirements.txt(?)
+-- npm install: installs all mentioned dependencies
+- addEventListener("click", function(event) {
+            event.preventDefault(); });
+--> Prevent default action of the event if not explicitly handled
+
+
+Resources
+=========
+- caniuse.com : check cross-browser compatibilities
+- 
